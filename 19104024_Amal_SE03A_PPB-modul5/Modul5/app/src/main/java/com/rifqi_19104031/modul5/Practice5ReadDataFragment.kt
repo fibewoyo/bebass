@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul5
+package com.Amal_19104024.modul5
 
 import android.content.Intent
 import android.os.Bundle
