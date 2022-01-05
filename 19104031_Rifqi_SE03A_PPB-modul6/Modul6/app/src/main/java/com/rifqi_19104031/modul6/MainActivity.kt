@@ -1,10 +1,10 @@
-package com.rifqi_19104031.modul6
+package com.amal_19104024.modul6
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.rifqi_19104031.modul6.databinding.ActivityMainBinding
+import com.amal_19104024.modul6.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
