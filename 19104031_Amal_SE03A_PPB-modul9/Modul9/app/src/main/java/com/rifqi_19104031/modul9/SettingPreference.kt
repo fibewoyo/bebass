@@ -1,8 +1,8 @@
-package com.rifqi_19104031.modul9
+package com.amal_19104024.modul9
 
 import android.content.Context
 import android.view.View
-import com.rifqi_19104031.modul9.databinding.ActivitySettingPreferenceBinding
+import com.amal_19104024.modul9.databinding.ActivitySettingPreferenceBinding
 
 class SettingPreference {
     internal class SettingPreference(context: Context) {
