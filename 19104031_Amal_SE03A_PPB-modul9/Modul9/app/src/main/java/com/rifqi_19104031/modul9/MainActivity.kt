@@ -1,10 +1,10 @@
-package com.rifqi_19104031.modul9
+package com.amal_19104024.modul9
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatDelegate
-import com.rifqi_19104031.modul9.databinding.ActivityMainBinding
+import com.amal_19104024.modul9.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
