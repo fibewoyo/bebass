@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul6
+package com.amal_19104024.modul6
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import coil.transform.CircleCropTransformation
-import com.rifqi_19104031.modul6.databinding.ItemListBinding
+import com.amal_19104024.modul6.databinding.ItemListBinding
 import java.util.*
 
 class MainAdapter(
