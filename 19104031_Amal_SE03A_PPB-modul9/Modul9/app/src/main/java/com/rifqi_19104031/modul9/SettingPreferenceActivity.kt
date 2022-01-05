@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul9
+package com.amal_19104024.modul9
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.provider.FontsContract.Columns.RESULT_CODE
 import android.text.TextUtils
 import android.widget.Toast
-import com.rifqi_19104031.modul9.databinding.ActivitySettingPreferenceBinding
+import com.amal_19104024.modul9.databinding.ActivitySettingPreferenceBinding
 
 class SettingPreferenceActivity : AppCompatActivity() {
     companion object {
