@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul9
+package com.amal_19104024.modul9
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
