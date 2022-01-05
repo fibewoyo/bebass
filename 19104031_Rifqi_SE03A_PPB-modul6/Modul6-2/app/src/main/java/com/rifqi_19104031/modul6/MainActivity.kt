@@ -1,9 +1,9 @@
-package com.rifqi_19104031.modul6
+package com.amal_19104024.modul6
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.rifqi_19104031.modul6.adapter.ListMyDataAdapter
+import com.amal_19104024.modul6.adapter.ListMyDataAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
