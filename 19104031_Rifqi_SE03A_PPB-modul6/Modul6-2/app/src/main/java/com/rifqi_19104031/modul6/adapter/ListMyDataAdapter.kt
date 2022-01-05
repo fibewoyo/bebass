@@ -1,11 +1,11 @@
-package com.rifqi_19104031.modul6.adapter
+package com.amal_19104024.modul6.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.rifqi_19104031.modul6.MyData
-import com.rifqi_19104031.modul6.R
+import com.amal_19104024.modul6.MyData
+import com.amal_19104024.modul6.R
 import java.util.*
 
 class ListMyDataAdapter(private val listMyData: ArrayList<MyData>) :
