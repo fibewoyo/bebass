@@ -6,10 +6,10 @@
         <import type="android.text.TextUtils"/>
         <variable
             name="settingModel"
-            type="com.rifqi_19104031.modul9.data.SettingModel" />
+            type="com.amal_19104024.modul9.data.SettingModel" />
         <variable
             name="act"
-            type="com.novian_19910027.praktikum9.MainActivity" />
+            type="com.amal_19104024.praktikum9.MainActivity" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
