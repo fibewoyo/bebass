@@ -1,4 +1,4 @@
-package com.rifqi_19104031.modul10
+package com.amal_19104024.modul10
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,16 +6,16 @@ import android.os.Bundle
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.snackbar.Snackbar
-import com.rifqi_19104031.modul10.data.Quote
-import com.rifqi_19104031.modul10.db.QuoteHelper
-import com.rifqi_19104031.modul10.helper.EXTRA_POSITION
-import com.rifqi_19104031.modul10.helper.EXTRA_QUOTE
-import com.rifqi_19104031.modul10.helper.REQUEST_ADD
-import com.rifqi_19104031.modul10.helper.REQUEST_UPDATE
-import com.rifqi_19104031.modul10.helper.RESULT_ADD
-import com.rifqi_19104031.modul10.helper.RESULT_DELETE
-import com.rifqi_19104031.modul10.helper.RESULT_UPDATE
-import com.rifqi_19104031.modul10.helper.mapCursorToArrayList
+import com.amal_19104024.modul10.data.Quote
+import com.amal_19104024.modul10.db.QuoteHelper
+import com.amal_19104024.modul10.helper.EXTRA_POSITION
+import com.amal_19104024.modul10.helper.EXTRA_QUOTE
+import com.amal_19104024.modul10.helper.REQUEST_ADD
+import com.amal_19104024.modul10.helper.REQUEST_UPDATE
+import com.amal_19104024.modul10.helper.RESULT_ADD
+import com.amal_19104024.modul10.helper.RESULT_DELETE
+import com.amal_19104024.modul10.helper.RESULT_UPDATE
+import com.amal_19104024.modul10.helper.mapCursorToArrayList
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
