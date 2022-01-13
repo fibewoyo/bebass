@@ -1,10 +1,10 @@
-package com.rifqi_19104031.modul10
+package com.amal_19104024.modul10
 
 import android.database.Cursor
 import android.provider.Settings.Global.getInt
 import android.provider.Settings.Global.getString
-import com.rifqi_19104031.modul10.data.Quote
-import com.rifqi_19104031.modul10.db.DatabaseContract
+import com.amal_19104024.modul10.data.Quote
+import com.amal_19104024.modul10.db.DatabaseContract
 import java.text.SimpleDateFormat
 import java.util.*
 
